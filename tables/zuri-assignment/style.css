@@ -1,0 +1,43 @@
+body {
+    margin: 0;
+    font-family: "Montserrat", sans-serif;
+    color: rgb(61, 60, 60);
+  }
+  h1 {
+    font-weight: lighter;
+    font-size: 18px;
+    padding: 10px 0;
+  }
+  
+  header {
+    background: rgb(61, 60, 60);
+    color: whitesmoke;
+    margin: 10px 0;
+    text-align: center;
+  }
+  
+  h2 {
+    text-align: center;
+    margin-bottom: 5px;
+  }
+  form {
+    margin-left: 45%;
+    margin-bottom: 40px;
+  }
+  
+  .btn1,
+  .btn2 {
+    background: rgb(19, 173, 173);
+    border: 0;
+    color: whitesmoke;
+    padding: 15px 10px;
+    border-radius: 3px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-bottom: 40px;
+  }
+   
+
+  .btn1 {
+      margin-left: 30%;
+  }

@@ -1,0 +1,3 @@
+welcome to python.
+simple python program to count words in a text file.
+i love python.
